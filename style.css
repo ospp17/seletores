@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: #f00;
+}
+
+main {
+    margin-top: 1 rem;
+}
+
+.paragrafo {
+    border: 1px solid #0ff;
+    color: #00f;
+    margin-top: 1rem;
+}
+
+.titulo {
+    color: #0f0;
+    margin-bottom: 1rem;
+}
+
+input[typ="password"] {
+    font-size: 3rem;
+}
